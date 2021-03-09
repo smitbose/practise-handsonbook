@@ -1,0 +1,1 @@
+Contains the codes practised from the book Hands-on ML with Scikit Learn and Tensorflow by Aurelien Geron
